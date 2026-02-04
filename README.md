@@ -16,7 +16,8 @@ This Power BI dashboard provides a comprehensive analysis of sales data for a re
 
 ## Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png.png) 
-
+## Download Full Report
+You can view the full dashboard report in PDF format here: [Download PDF](./Dashboard_Preview.pdf)
 
 ## How to View
 1. Download the `.pbix` file.
